@@ -1,3 +1,0 @@
-DevelWare Studio Latest
-ПОСЛЕДНЯЯ ВЕРСИЯ DevelWare! Включает в себя все фиксы и убраны недоработки.
-разработано благодаря github.com/meigoc
